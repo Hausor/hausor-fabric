@@ -1,0 +1,1 @@
+this.fabric = { version: "1.4.13" }
