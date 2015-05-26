@@ -5,11 +5,7 @@ Fabricjs port to meteor used by [hausor.com](hausor.com)
 
 ## Prerequisites
 
-In a Meteor app directory, enter:
-
-```
-$ meteor add hausor:fabric
-```
+Fabricjs on server side depends on [cairo](http://cairographics.org/) - it means that you have to install it on your dev and production machines. 
 
 ## Installation
 
