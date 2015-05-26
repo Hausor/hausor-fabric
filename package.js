@@ -22,5 +22,5 @@ Package.onUse(function(api) {
 Package.onTest(function(api) {
   api.use('tinytest');
   api.use('hausor:fabricjs');
-  api.addFiles('fabricjs-tests.js');
+  api.addFiles('fabric-tests.js');
 });
