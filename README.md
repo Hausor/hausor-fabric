@@ -17,4 +17,4 @@ $ meteor add hausor:fabric
 
 ## Usage
 
-Take a loog at fabricjs [website](fabricjs.com).
+Take a look at fabricjs [website](fabricjs.com).
