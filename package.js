@@ -2,7 +2,7 @@ Package.describe({
   name: 'hausor:fabricjs',
   version: '0.0.1',
   summary: 'Meteor package wrapping fabricjs library',
-  git: '',
+  git: 'https://github.com/Hausor/hausor-fabric',
   documentation: 'README.md'
 });
 
